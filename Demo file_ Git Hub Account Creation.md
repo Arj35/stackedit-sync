@@ -31,12 +31,12 @@ This procedure describes how to create a new GitHub account.
    GitHub will send a verification email. Open the email and click the verification link. Enter the code and verify.
 
 6. **Complete** the setup process. After the code is verified, a enter login details on the **Sign-In** screen.
-   > [!CAUTION]  
+   > **Tip**  
    > Remember your username and password. You will need them to log in to GitHub.
 
 
 A new GitHub account is successfully created and ready for use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDcwOTgwMTcsLTE5NzA5OTA3MTksOT
-E4MTU2MjE3XX0=
+eyJoaXN0b3J5IjpbMjA3NTU4NzA1NiwtMTk3MDk5MDcxOSw5MT
+gxNTYyMTddfQ==
 -->
