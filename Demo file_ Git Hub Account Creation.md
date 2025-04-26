@@ -3,7 +3,7 @@
 
 > Written with [StackEdit](https://stackedit.io/).
 
-# How to Sign Up on GitHub
+# How to Sign Up on GitHub 
 This procedure describes how to create a new GitHub account.
 
 ## Prerequisites
@@ -37,5 +37,5 @@ This procedure describes how to create a new GitHub account.
 ## Expected Output
 A new GitHub account is successfully created and ready for use.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MTU2MjE3XX0=
+eyJoaXN0b3J5IjpbLTE5NzA5OTA3MTksOTE4MTU2MjE3XX0=
 -->
